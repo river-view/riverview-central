@@ -1,6 +1,6 @@
 ---
-name: RiverView Activity Template
-about: The primary template for creating a ticket in the RiverView project
+name: RiverView Task Template
+about: The primary template for creating a task in the RiverView project
 title: ''
 labels: ''
 assignees: ''
